@@ -1,0 +1,2 @@
+# Explicitly ensure SQL files are tracked for the repository language
+*.sql linguist-detectable=true
